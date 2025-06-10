@@ -1,3 +1,5 @@
-module github.com/you/your-repo
+module release-test
 
-go 1.23.9
+go 1.21
+
+require golang.org/x/net v0.19.0

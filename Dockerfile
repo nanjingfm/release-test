@@ -1,1 +1,1 @@
-FROM mikefarah/yq:4.41.0
+FROM mikefarah/yq:4.45.4
